@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MendyLaufer
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently studying Software Development
 - 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/mendy-laufer-069292205/ 
 
 <!---
